@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/bcp.project.API.props" />
+</Project>

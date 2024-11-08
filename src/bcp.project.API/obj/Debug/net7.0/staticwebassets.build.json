@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MKj3XmUaO+DC9JpnJF2NkcjvyRCtEXNleppzIeYvuG8=",
+  "Source": "bcp.project.API",
+  "BasePath": "_content/bcp.project.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

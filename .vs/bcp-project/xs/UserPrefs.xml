@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{0FAA5AF6-E825-4A78-960C-19568000B8AF}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/bcp.project.API/Program.cs">
+    <Files>
+      <File FileName="src/bcp.project.API/Controllers/CreditorController.cs" Line="26" Column="58" />
+      <File FileName="src/bcp.project.API/Program.cs" Line="20" Column="1" />
+      <File FileName="src/bcp.project.Services/Interfaces/ICreditorService.cs" Line="8" Column="27" />
+      <File FileName="src/bcp.project.Models/CreditorModels/Creditor.cs" Line="6" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bcp-project" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="bcp.project.API" expanded="True">
+                <Node name="Controllers" expanded="True" />
+                <Node name="Program.cs" selected="True" />
+              </Node>
+              <Node name="bcp.project.Models" expanded="True">
+                <Node name="CreditorModels" expanded="True" />
+              </Node>
+              <Node name="bcp.project.Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.src.bcp.project.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
